@@ -3,7 +3,7 @@
 %global		__requires_exclude_from ^%{_libdir}/cmake/litehtml/.*$
 
 Name:		litehtml
-Version:	0.9
+Version:	0.10
 Release:	1
 Source0:	https://github.com/litehtml/litehtml/archive/v%{version}/%{name}-%{version}.tar.gz
 Summary:	litehtml is the lightweight HTML rendering engine with CSS2/CSS3 support
